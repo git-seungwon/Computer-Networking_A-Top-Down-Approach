@@ -1,4 +1,4 @@
-# 4.2 라우터 내부에는 무엇이 있을까?
+# 4.2 라우터 내부에는 무엇이 있을까
 
 <p align="center"><img width="500" alt="라우터 구조" src="https://user-images.githubusercontent.com/76640167/212551546-16b6533b-58ec-421a-9863-e7d581e0cb41.png">
 
